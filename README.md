@@ -9,3 +9,5 @@
 [bb](test.mp4)
 
 [cc](test.swf)
+
+[my.md](my.md)
