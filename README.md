@@ -2,7 +2,7 @@
 
 [link to Google!](http://google.com)
 
-</dir1>
+[downloads](/dir1)
 
 [bb](test.mp4)
 
